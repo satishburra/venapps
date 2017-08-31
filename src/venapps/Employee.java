@@ -10,9 +10,6 @@ public class Employee
 	{
 		System.out.println(" Hello ");
 	}
-	public void call1()
-	{
-		System.out.println(" Hello ");
-	}
+	
 
 }
